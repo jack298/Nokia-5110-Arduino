@@ -1,2 +1,2 @@
-# Nokia-5110-Arduino
-A Nokia 5110 LCD experimental project with Arduino Nano, with Christmas theme.
+# Christmas greetings with Arduino and Nokia LCD
+A Nokia 5110 LCD experimental project with Arduino Nano, and Christmas theme.
